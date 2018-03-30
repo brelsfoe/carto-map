@@ -1,2 +1,3 @@
-# carto-map
-This is my carto map
+# carto-dropdown
+
+Filter data on a Carto map using a dropdown and some JavaScript
