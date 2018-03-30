@@ -28,7 +28,7 @@ html, body {
   background: gray;
   position: absolute;
   right: 15px;
-  bottom: 15px;
+  top: 75px;
   padding: 10px;
   width: 75px;
   z-index: 20000;
